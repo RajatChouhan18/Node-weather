@@ -6,4 +6,12 @@ git init -create .git directory
 git status
 
 git add folderName/ || git add . -> for all files
-gh
+git commit -m "comment"
+
+
+-----------------------
+ **  HEROKU  **
+
+COMMANDS 
+  heroku keys:add  -> adds ssh key
+  
