@@ -6,3 +6,4 @@ git init -create .git directory
 git status
 
 git add folderName/ || git add . -> for all files
+gh
