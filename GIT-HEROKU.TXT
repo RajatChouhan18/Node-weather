@@ -1,0 +1,8 @@
+git --version
+heroku -v
+
+git init -create .git directory
+
+git status
+
+git add folderName/ || git add . -> for all files
