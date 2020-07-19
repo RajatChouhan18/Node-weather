@@ -37,7 +37,8 @@ header a {
 }
 
 .portrait  {
-    width : 222px ;
+    width : 80px ;
+    
 }
 
 input {
@@ -50,4 +51,19 @@ button {
     border :  2px solid #e7a1a1;
     background: #f7f8f0;
     color: rgb(92, 59, 59);
+}
+
+p {
+    color :#2e2929;
+    font-family: arial;
+    text-align: justify;
+}
+
+h3 {
+  color: #888888;  
+}
+
+h6 {
+    color: black;
+    margin-top: 0px;
 }
